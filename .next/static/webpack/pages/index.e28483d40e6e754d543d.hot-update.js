@@ -7,7 +7,7 @@ webpackHotUpdate_N_E("pages/index",{
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"/_next/static/images/deni-foto-bfed3cd4c16605cfe63ec9fbfb93eb86.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vc3JjL2Fzc2V0cy9kZW5pLWZvdG8ucG5nP2E3YjQiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoiLi9zcmMvYXNzZXRzL2RlbmktZm90by5wbmcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiL19uZXh0L3N0YXRpYy9pbWFnZXMvZGVuaS1mb3RvLWJmZWQzY2Q0YzE2NjA1Y2ZlNjNlYzlmYmZiOTNlYjg2LnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/assets/deni-foto.png\n");
+eval("module.exports = \"/next/static/images/deni-foto-bfed3cd4c16605cfe63ec9fbfb93eb86.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vc3JjL2Fzc2V0cy9kZW5pLWZvdG8ucG5nP2E3YjQiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoiLi9zcmMvYXNzZXRzL2RlbmktZm90by5wbmcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiL19uZXh0L3N0YXRpYy9pbWFnZXMvZGVuaS1mb3RvLWJmZWQzY2Q0YzE2NjA1Y2ZlNjNlYzlmYmZiOTNlYjg2LnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/assets/deni-foto.png\n");
 
 /***/ }),
 

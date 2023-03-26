@@ -7,7 +7,7 @@ webpackHotUpdate_N_E("pages/index",{
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"/_next/static/images/denismall-1c456a48198e5106665643d0fece0960.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vc3JjL2Fzc2V0cy9kZW5pc21hbGwucG5nP2Y4NWUiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoiLi9zcmMvYXNzZXRzL2RlbmlzbWFsbC5wbmcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiL19uZXh0L3N0YXRpYy9pbWFnZXMvZGVuaXNtYWxsLTFjNDU2YTQ4MTk4ZTUxMDY2NjU2NDNkMGZlY2UwOTYwLnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/assets/denismall.png\n");
+eval("module.exports = \"/next/static/images/denismall-1c456a48198e5106665643d0fece0960.png\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vc3JjL2Fzc2V0cy9kZW5pc21hbGwucG5nP2Y4NWUiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoiLi9zcmMvYXNzZXRzL2RlbmlzbWFsbC5wbmcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiL19uZXh0L3N0YXRpYy9pbWFnZXMvZGVuaXNtYWxsLTFjNDU2YTQ4MTk4ZTUxMDY2NjU2NDNkMGZlY2UwOTYwLnBuZ1wiOyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/assets/denismall.png\n");
 
 /***/ }),
 
